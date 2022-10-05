@@ -1,2 +1,3 @@
 Using my AWS login credentials i have created an EC2 instance (Windows_Server-2019) using the launch instance.
+Make sure that the instance is running and the status checks are confirmed.
 
